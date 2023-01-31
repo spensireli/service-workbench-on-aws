@@ -3,21 +3,17 @@ id: deployment_stages
 title: Deployment Stages
 sidebar_label: Deployment Stages
 ---
-{% capture ioLink %}https://awslabs.github.io/service-workbench-on-aws-cn{% endcapture %}
 
 **Note**: The Service Workbench deployment guide is now replaced by [Service Workbench Installation Guide](/installation_guide/overview). Refer to the new installation guide for installing Service Workbench.
 
 The Service Workbench deployment is categorized into the following stages:
 
-1. [Pre Deployment]({{ ioLink }}/deployment/pre_deployment/pre_deployment/)
+1. [Pre Deployment](https://awslabs.github.io/service-workbench-on-aws-cn/deployment/pre_deployment/pre_deployment/)
 
-2. [Deploying Service Workbench]([ioLink]/deployment/deployment/index)
+2. [Deploying Service Workbench](https://awslabs.github.io/service-workbench-on-aws-cn/deployment/deployment/index)
 
-3. [Post Deployment]([ioLink]/deployment/post_deployment/index)
+3. [Post Deployment](https://awslabs.github.io/service-workbench-on-aws-cn/deployment/post_deployment/index)
 
-4. [Configuration]([ioLink]/deployment/configuration/auth/configuring_idp)
+4. [Configuration](https://awslabs.github.io/service-workbench-on-aws-cn/deployment/configuration/auth/configuring_idp)
 
-5. [Deploying Updates]([ioLink]/deployment/redeployment)
-
-
-[ioLink]: https://awslabs.github.io/service-workbench-on-aws-cn
+5. [Deploying Updates](https://awslabs.github.io/service-workbench-on-aws-cn/deployment/redeployment)
